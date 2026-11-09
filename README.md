@@ -4,7 +4,7 @@
 
 **Live demo:** https://gym-tok-demo-v3.vercel.app
 
-Note: The demo may not be live due to free tier restrictions. Please see [SLKR Academy](https://github.com/alex-rahi/slkr_academy) which is a live cross-platform application in production that handles long-term scaling. 
+Note: This demo may not be live due to free tier restrictions. Please see [SLKR Academy](https://github.com/alex-rahi/slkr_academy) which is a live cross-platform application in production that handles long-term scaling. 
 
 ---
 
